@@ -8,7 +8,7 @@ public class HelloAndroid extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // leave a comment
+        // leave a comment UM
         setContentView(R.layout.main);
     }
 }
